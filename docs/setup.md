@@ -1,4 +1,3 @@
-
 # Setup Guide
 
 ## Prerequisites
@@ -10,12 +9,7 @@
 
 Clone the repository:
 
-`git clone <repo-url>`
-
-Navigate into the project directory:
-
-`cd cse103-lab-LAB3`
-
-Run the Python program:
-
-`python3 src/main.py`
+```bash
+git clone https://github.com/ashichoudharyy2008-lang/cse103-lab-LAB3.git
+cd cse103-lab-LAB3
+python3 src/main.py
